@@ -1,0 +1,5 @@
+less 668 for tOS
+==============
+
+Built from less-668.tar.gz (beside this package) on a Linux host with prefix /system/pkg/less, without changes to the source. License: GPL-3.0-or-later OR BSD-2-Clause (LICENSE).
+glibc: dynamically linked against the GNU C Library, which tOS's base system carries.

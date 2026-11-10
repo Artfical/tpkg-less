@@ -1,0 +1,27 @@
+{
+ "name": "less",
+ "version": "668",
+ "license": "GPL-3.0-or-later OR BSD-2-Clause",
+ "homepage": "",
+ "licenses": [
+  "LICENSE",
+  "NOTICE.txt"
+ ],
+ "sources": [
+  "less-668.tar.gz"
+ ],
+ "desc": "less 668, the pager",
+ "file": "less-668.tpkg",
+ "size": 183398,
+ "sha256": "400ce8108adce4114dcb2269411009c2cb56fcf8f223df2d579f2640534be713",
+ "unpacked": 398448,
+ "min_build": 619,
+ "depends": [
+  "terminfo"
+ ],
+ "commands": {
+  "less": "bin/less",
+  "lessecho": "bin/lessecho",
+  "lesskey": "bin/lesskey"
+ }
+}
